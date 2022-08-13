@@ -3,8 +3,9 @@
 Olá, tudo bem? Meu nome é Mariane Milene Xavier Rocha e tenho 21 anos.
 Sou estudante do Curso Técnico Subsequente em Informática no Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA, Campus Paulo Afonso.
 
-Seja bem-vindo(a) ao Connect-ONG, um projeto iniciado por mim para as disciplinas de Análise e Projeto de Sistemas, Desenvolvimento Web I e Linguagem de Programação II. 
+Seja bem-vindo(a) ao Connect-ONG, um projeto iniciado por mim para as disciplinas de Análise e Projeto de Sistemas, Desenvolvimento Web I e Linguagem de Programação II. O projeto está em fase de atualização, contando com o apoio dos meus colegas de curso Valdemilson Tavares Lins Júnior e Yago Augusto Guedes Pereira. Você pode acompanhar o processo no link a seguir: https://github.com/yagoal/connect-ong.
 
+Mais informações:
 O Connect-ONG é um site destinado ao controle e ao gerenciamento de Organização Não-Governamentais (ONGs) ligadas à causa animal. Nele, é possível realizar o cadastro e o controle de pessoas (funcionários e parceiros) e de animais. Os parceiros, como são chamadas as pessoas que não têm vínculo empregatício ou voluntariado com a ONG, têm acesso à lista de animais resgatados pela ONG em questão e, devidamente cadastrados, poderão solicitar uma adoção. Ou seja, o principal objetivo do projeto é conectar seres humanos e animais. A palavra "conexão" pode ser descrita como a palavra-chave desse projeto, presente não apenas em seu nome ("Connect"), como também em sua essência. Aborda a conexão em 3 sentidos: 
 - tecnológico, devido à disponibilização de dados sobre os animais e da possibilidade de solicitar uma adoção;
 - emocional, relacionado às reações que podem surgir ao visualizar a foto de um animal, como a empatia gerada em vê-lo à procura de uma família;
@@ -24,5 +25,3 @@ Paleta de cores:
 
 Logotipo:
 Desenvolvido pelo ilustrador Victor Fernandes.
-
-O projeto está em fase de atualização, contando com o apoio dos meus colegas de curso Valdemilson Tavares Lins Júnior e Yago Augusto Guedes Pereira. Você pode acompanhar o processo no link a seguir: https://github.com/yagoal/connect-ong.
